@@ -10,3 +10,7 @@ irregularly regular R-R intervals , 2 of the main visible charchtastics of Atria
 - `1d_CNN.ipynb`: deep learning CNN model (1d convo)
 - `MLP_shallow.ipynb`: baseline shallow neural network
 - `models.ipynb`: random forest and logistic regression
+
+ ## Example Plots
+ 1d_CNN ROC
+ Log reg vs RF
