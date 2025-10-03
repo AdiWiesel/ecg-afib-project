@@ -2,7 +2,7 @@
 
 ## Goal
 this projects aims to evaluate the performence of several machine learning methods to identify P WAVE absent and/or 
-irregularly regular R-R intervals , 2 of the main visible Characteristic of Atrial fibrilation.
+irregularly irregular R-R intervals , 2 of the main visible Characteristic of Atrial fibrilation.
 
 ## Project structure
 `ecg_basics.ipynb`: commented explaination of basic ECG interpetation and physiology behind it
