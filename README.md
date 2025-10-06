@@ -40,13 +40,6 @@ It showcases end-to-end work: preprocessing raw ECG data, feature extraction, mo
 
 ---
 
-## 📂 Files
-- `ecg_feature_extraction.py` → preprocessing & feature extraction
-- `afib_logreg.ipynb` → Logistic Regression notebook
-- `afib_neuralnet.ipynb` → Neural Network notebook
-- `mitdb_features_v1.npz` → preprocessed dataset
-
----
 
 ## 🔮 Next Steps
 - Add **CNN-based deep learning** for direct raw ECG waveform analysis
